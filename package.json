@@ -1,0 +1,1 @@
+{"name":"qingdan-todo","version":"1.0.0","private":true,"description":"轻单中文待办清单","scripts":{"start":"node server.cjs","check":"node --check dist/app.js"}}
